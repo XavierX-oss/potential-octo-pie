@@ -11,7 +11,7 @@
     <a href="#" id="web_home"> Home </a>
     <a href="#" id="web_login"> Login </a>
     <a href="#" id="web_about"> About </a>
-
+	
     <!-- Title -->
     <h1>Welcome To My Website</h1>
     
@@ -26,7 +26,7 @@
             <br>
             <label for=""> Gender: </label>
             <input type="radio" name="gender" value="0">Male
-		    <input type="radio" name="gender" value="1">Female<br>
+	    <input type="radio" name="gender" value="1">Female<br>
         </fieldset>
     </div>
 </body>
